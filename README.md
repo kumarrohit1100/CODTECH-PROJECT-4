@@ -95,5 +95,3 @@ This project analyzes customer sentiments from real Twitter data related to airl
 
 ---
 
-## 📂 Project Structure
-
